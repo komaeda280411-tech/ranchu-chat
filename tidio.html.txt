@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ranchu Chat</title>
+</head>
+<body>
+
+<script src="https://code.tidio.co/farmbjxbhyrccjwfafmtkeuh0tq7wp3p.js" async></script>
+
+</body>
+</html>
